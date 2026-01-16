@@ -1,6 +1,10 @@
 # Iphone stuff
 
-# 
+https://hackt1vator.com/
+https://samfw.com/blog/samfw-frp-tool-1-0-remove-samsung-frp-one-click
+
+
+
 ## TABLE OF CONTENTS
 
 1) Palera1n mod by kitty915
