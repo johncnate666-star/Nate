@@ -106,10 +106,7 @@ You can now jailbreak with palera1n too with the Tips app, enjoy!
 # Aurora 
 ![image](https://github.com/Toni-d-e-v/Aurora-Icloud-bypass/assets/62844491/a1f00c97-af2f-4a97-83db-97e6db7a408e)
 
-# Disclaimer
 
-**Important Notice:** This repository and its contents are intended solely for educational purposes. Please exercise caution and discretion when using any information or software provided here. The developers of this software cannot be held liable for any damages incurred through its use. Utilizing any tools from this repository to engage in unauthorized attacks or unlock targets without prior, mutual consent is strictly illegal. It is the responsibility of the end user to comply with all relevant local, state, and federal laws. We assume no liability and bear no responsibility for any misuse or harm resulting from the use of this software.
-## How to Run
 
 You can run this script on Mac, Linux, or Windows with the Linux subsystem. Ensure that your device is connected via USB, and then execute the following commands:
 
@@ -131,14 +128,9 @@ This repository offers several functionalities for various purposes:
 
 5. **Remove iCloud Account from Activated Device (rm_oldicloud.sh):** This script can be used to remove an iCloud account from a device that is already activated. Caution: Do not restore the device after using this script.
 
-## About
-
-This script simplifies the process by downloading all necessary components. Follow the provided instructions, and it should work seamlessly on devices supported by the Checkra1n jailbreak, spanning from iPhone 5s to iPhone X. It is compatible with iOS 14, although some iOS 13 versions may not be supported. Enjoy exploring its functionalities!
 
 -----
 -----
-
-# legacy ios kit
 
 # Legacy iOS Kit
 
@@ -786,41 +778,3 @@ sudo chmod 755 ./*
 <h3 align"center">Now for iOS 12-14 click "start checkra1n" and for iOS 15-16 click "start palera1n"
 <h3 align"center">When the device is jailbroken, you can click bypass iOS 12-16 
 <h3 align"center">Save the activation files and restore them after iTunes restore
-
-
-
-
-# Credits
-
-- [veast-network](https://github.com/veast-network)
-: [pull request](https://github.com/Hackt1vator/iRevive/pull/3/files)
-
-Original palera1n credits:
-- [Nathan](https://github.com/verygenericname)
-    - The ramdisk that dumps blobs, installs pogo to tips app, and duplicates rootfs is a slimmed down version of [SSHRD_Script](https://github.com/verygenericname/SSHRD_Script)
-    - For modified [restored_external](https://github.com/verygenericname/sshrd_SSHRD_Script)
-    - Also helped Mineek getting the kernel up and running and with the patches
-    - Helping with adding multiple device support
-    - Fixing issues relating to camera.. etc by switching to fsboot
-    - [iBoot64Patcher fork](https://github.com/verygenericname/iBoot64Patcher)
-- [Mineek](https://github.com/mineek)
-    - For the patching and booting commands
-    - Adding tweak support
-    - For patchfinders for RELEASE kernels
-    - [Kernel15Patcher](https://github.com/mineek/PongoOS/tree/iOS15/checkra1n/Kernel15Patcher)
-    - [Kernel64Patcher](https://github.com/mineek/Kernel64Patcher)
-- [Amy](https://github.com/elihwyma) for the [Pogo](https://github.com/elihwyma/Pogo) app
-- [checkra1n](https://github.com/checkra1n) for the base of the kpf
-- [nyuszika7h](https://github.com/nyuszika7h) for the script to help get into DFU
-- [the Procursus Team](https://github.com/ProcursusTeam) for the amazing [bootstrap](https://github.com/ProcursusTeam/Procursus)
-- [F121](https://github.com/F121Live) for helping test
-- [m1sta](https://github.com/m1stadev) for [pyimg4](https://github.com/m1stadev/PyIMG4)
-- [tihmstar](https://github.com/tihmstar) for [pzb](https://github.com/tihmstar/partialZipBrowser)/original [iBoot64Patcher](https://github.com/tihmstar/iBoot64Patcher)/original [liboffsetfinder64](https://github.com/tihmstar/liboffsetfinder64)/[img4tool](https://github.com/tihmstar/img4tool)
-- [xerub](https://github.com/xerub) for [img4lib](https://github.com/xerub/img4lib) and [restored_external](https://github.com/xerub/sshrd) in the ramdisk
-- [Cryptic](https://github.com/Cryptiiiic) for [iBoot64Patcher](https://github.com/Cryptiiiic/iBoot64Patcher) fork, and [liboffsetfinder64](https://github.com/Cryptiiiic/liboffsetfinder64) fork
-- [libimobiledevice](https://github.com/libimobiledevice) for several tools used in this project (irecovery, ideviceenterrecovery etc), and [nikias](https://github.com/nikias) for keeping it up to date
-- [Nick Chan](https://github.com/asdfugil) general help with patches.
-- [Sam Bingner](https://github.com/sbingner) for [Substitute](https://github.com/sbingner/substitute)
-- [Serena](https://github.com/SerenaKit) for helping with boot ramdisk.
-</p>
-.
