@@ -15,9 +15,7 @@ https://samfw.com/blog/samfw-frp-tool-1-0-remove-samsung-frp-one-click
 6) irevive 
 
 
-# Palera1n mod by kitty915
-
-> **Warning** PLEASE, DO NOT ASK FOR SUPPORT REGARDING ICLOUD BYPASS IN PALERA1N DISCORD SERVER! THIS IS NOT OFFICIALLY SUPPORTED AND WON'T EVER BE.
+# 
 
 This palera1n mod adds a tethered iCloud Hello screen bypass for checkm8 devices, tested on an iPhone 6S.
 
@@ -33,9 +31,7 @@ iOS 16 support should be working now.
 
 SSH may not work in the bypass phase. This is currently being looked into.
 
-# DISCLAIMER
-
-This bypass must not be used on a device you don't legally own and have permission to modify, I am not responsible for any misuse of anyting in this repo.
+#
 
 # Usage
 To bypass Hello screen we will first of all, restore to a clean iOS 15 or 16 version.
